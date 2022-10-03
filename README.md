@@ -30,6 +30,6 @@ Actually I was going to include Snap Kick passive for Zenyatta but I couldn't du
 # License
 Roon's Workshop License 2022
 
-You may freely use, modify, and share with others. But please remember two things, or bad things might happen:
+You may freely use, modify, and share with others. But please remember to follow these two rules:
 * Do not claim it as your own. Remember to credit the original author of the gamemode.
 * For Streamers/Content Creators: If possible, please link the gamemode to this github repository so others can find this easily.
