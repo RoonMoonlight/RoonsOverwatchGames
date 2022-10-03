@@ -11,12 +11,12 @@ In this gamemode there is following changes:
 * The time length is 60:00, which is one hours. The game restarts once it reaches zero.
 * You cannot damage other players, you can still use your ability.
 * The score does not change even if you've been killed or kill someone with a bug.
-* `New Overwatch Hero only` version locks to heroes affiliated with New Overwatch, and you could only pick one hero at once.
+* 'New Overwatch Hero only' version locks to heroes affiliated with New Overwatch, and you could only pick one hero at once. Due to player slot limitation Zarya is not included.
 
 ### Vs Wacky Heroes
 * Game code: `WQNCB`
 
-Wacky Heroes is the gamemode without any workshop scripts being used, and motivated by the Team Fortress 2 community gamemode named `Vs Saxton Hale`. Team with 11 players (Humans) becomes New Overwatch, while the other team becomes Wacky Hero, which is the main target to kill.
+Wacky Heroes is the gamemode without any workshop scripts being used, and motivated by the Team Fortress 2 community gamemode named 'Vs Saxton Hale'. Team with 11 players (Humans) becomes New Overwatch, while the other team becomes Wacky Hero, which is the main target to kill.
 
 I will think about recreating this project soemday, with new ultimate abilities for some heroes with workshop feature.
 
