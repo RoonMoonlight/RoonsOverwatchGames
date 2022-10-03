@@ -3,7 +3,7 @@ Welcome... To my yet another repository. This repository includes some custom co
 
 # List of Custom Game codes
 ### Kanezaka Chill Place before Overwatch 2
-* Game code: ND3D5 (Default), XK3PA3 (New Overwatch Hero only)
+* Game code: `ND3D5` (Default), `XK3PA3` (New Overwatch Hero only)
 
 These codes were supposed to be used on Overwatch 2 chill event hosted by Roon, however the maintenence length made it unavailable and this was left unused.
 In this gamemode there is following changes:
@@ -14,14 +14,14 @@ In this gamemode there is following changes:
 * `New Overwatch Hero only` version locks to heroes affiliated with New Overwatch, and you could only pick one hero at once.
 
 ### Vs Wacky Heroes
-* Game code: WQNCB
+* Game code: `WQNCB`
 
 Wacky Heroes is the gamemode without any workshop scripts being used, and motivated by the Team Fortress 2 community gamemode named `Vs Saxton Hale`. Team with 11 players (Humans) becomes New Overwatch, while the other team becomes Wacky Hero, which is the main target to kill.
 
 I will think about recreating this project soemday, with new ultimate abilities for some heroes with workshop feature.
 
 ### Medieval Mode
-* Game code: 7FBK9
+* Game code: `7FBK9`
 
 Yep, you will know what this game mode is: This gamemode is inspired from Team Fortress 2's Medieval Mode. It only features following heroes in the roster: Brigitte, Doomfist, Genji, Hanzo, Mercy, Moira, Reinhardt, Sombra, Wrecking Ball, Zenyatta and many things are rebalanced to fit with the Medieval theme. Now you don't have any guns to deal with, all you need to do is fight with your own bare melee weapons.
 
