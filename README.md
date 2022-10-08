@@ -27,6 +27,12 @@ Yep, you will know what this game mode is: This gamemode is inspired from Team F
 
 Actually I was going to include Snap Kick passive for Zenyatta but I couldn't due to lack of workshop experience.
 
+### Overwatch 2 Unranked Competitive
+* Season 1 - Pre-Kiriko (Role Queue): 69RZ8 / Pre-Kiriko (Open Queue): P33R1
+* Season 1 - Post-Kiriko (Role Queue): Coming Soon / Post-Kiriko (Open Queue): Coming Soon
+
+This works like the Competitive 2.0 for Overwatch 2 but It's Unranked. Tried my best to recreate Competitive in custom games. Will be constantly updated every changes.
+
 # License
 Roon's Workshop License 2022
 
