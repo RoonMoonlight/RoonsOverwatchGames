@@ -30,8 +30,8 @@ Actually I was going to include Snap Kick passive for Zenyatta but I couldn't du
 ### Overwatch 2 Unranked Competitive
 | Season | Week | Preset Code | Additional Note |
 | ------ | ---- | ----------- | --------------- |
-| Season 1 | Week 1 | 69RZ8 (Role Lock)<br />P33R1 (No Role Lock) | **Competitive 2.0, Esperança introduced**<br />Kiriko is banned until Week 3 |
-| Season 1 | Week 3 | P243Q (Role Lock)<br />1PJ4Z (No Role Lock) | **Kiriko enabled**<br />Torbjörn and Bastion is disabled |
+| Season 1 | Week 1 | `69RZ8` (Role Lock)<br />`P33R1` (No Role Lock) | **Competitive 2.0, Esperança introduced**<br />Kiriko is banned until Week 3 |
+| Season 1 | Week 3 | `P243Q` (Role Lock)<br />`1PJ4Z` (No Role Lock) | **Kiriko enabled**<br />Torbjörn and Bastion is disabled |
 | Season 1 | Week 4 | Coming Soon | Torbjörn and Bastion is now enabled again |
 
 This works like the Competitive 2.0 for Overwatch 2 but It's Unranked. Tried my best to recreate Competitive in custom games. Will be constantly updated when changes were made.
