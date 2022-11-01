@@ -35,7 +35,6 @@ Actually I was going to include Snap Kick passive for Zenyatta but I couldn't du
 | Season 1 | Week 4 | `RFHQH` (Role Lock)<br />`YVK28` (No Role Lock) | Torbjörn and Bastion is now enabled again |
 | Season 1 | Week 5 | `TB7K5` (Role Lock)<br />`101PK` (No Role Lock) | Mei is disabled |
 
-TB7K5
 This works like the Competitive 2.0 for Overwatch 2 but It's Unranked. Tried my best to recreate Competitive in custom games. Will be constantly updated when changes were made.
 
 # License
