@@ -37,6 +37,11 @@ Actually I was going to include Snap Kick passive for Zenyatta but I couldn't du
 
 This works like the Competitive 2.0 for Overwatch 2 but It's Unranked. Tried my best to recreate Competitive in custom games. Will be constantly updated when changes were made.
 
+### Practice Mode
+* Game code: `0XE1M`
+
+The Practice Mode I use while finding a match. You need to use Team 1 slot.
+
 # License
 Roon's Workshop License 2022
 
