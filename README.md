@@ -37,6 +37,23 @@ Actually I was going to include Snap Kick passive for Zenyatta but I couldn't du
 
 This works like the Competitive 2.0 for Overwatch 2 but It's Unranked. Tried my best to recreate Competitive in custom games. Will be constantly updated when changes were made.
 
+This gamemode is no longer active due to loss of interest.
+
+### New Practice Mode
+* Game code: `NBGVY`
+
+It's finally here! Welcome to the new practice mode, which allows you to practice while finding the game. It has following features:
+
+* Hero Selection phase is now reduced to 5 seconds, and setup phase is now reduced to 10 seconds
+* You get 4x movement speed boost during the setup phase, allowing you to reach the battlefield quickly
+* You can also add bots to your room for practice
+* Capture progress is now doubled, for example point capture is now 2x speed.
+* Control objective percentages are now doubled
+* Control maps only have one round, so if you win the round you win the game
+* Round time for all modes are halved (Escort, Hybrid, Push - However the bonus time couldn't be halved due to limitation of workshop)
+* Map rotation follows the current map pool of the season, and will be updated at every season changes
+* The match is automatically restarted at the end of the game
+
 ### Practice Mode
 * Game code: `0XE1M`
 
